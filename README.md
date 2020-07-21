@@ -1,2 +1,2 @@
-# Machine-Learning-Practical-Workout-
+# Machine_Learning_Practical_Workout
 Machine Learning Practical Workout
